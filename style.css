@@ -1,0 +1,20 @@
+body{
+    margin: 0 auto;
+    height: 970px;
+width: 390px;
+border-radius: 0px;
+background: linear-gradient(180deg, #D3EAFA 0%, rgba(56, 125, 189, 0.8) 48.29%, #14082B 99.98%, #1564E0 99.99%, #181236 100%, #181236 100%);
+background-size: 100%;
+}
+
+#image{
+    position: absolute;
+    bottom: 550px;
+    right: 765px;
+}
+
+#imagem{
+    position: absolute;
+    right: 790px;
+    top: 450px;
+}
